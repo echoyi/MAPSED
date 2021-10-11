@@ -1,0 +1,13 @@
+dataset,method,metric,type 1,type 2,type 3,type 4
+SF,Frobenius norm,RMSE,3.3738,3.155,2.2107,1.9892
+SF,Frobenius norm,MAE,2.0281,1.7444,1.3268,1.2055
+SF,No contrast,RMSE,3.4117,3.3243,2.2703,2.0233
+SF,No contrast,MAE,2.0642,1.7938,1.3497,1.2358
+SF,Inner product,RMSE,3.3347,3.3769,2.2008,2.0102
+SF,Inner product,MAE,2.0199,1.8086,1.3256,1.22
+VAN,Frobenius norm,RMSE,2.519,1.2575,0.9845,1.2418
+VAN,Frobenius norm,MAE,1.3566,0.7233,0.6763,0.5208
+VAN,No contrast,RMSE, 2.4843,1.3011,1.0044,1.2582
+VAN,No contrast,MAE,1.3602,0.7357,0.6926,0.5234
+VAN,Inner product,RMSE,2.4807,1.281,0.9872,1.2714
+VAN,Inner product,MAE,1.3538,0.7294,0.6738,0.524

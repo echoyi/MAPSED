@@ -1,0 +1,7 @@
+﻿method,parameter count(k),training time(s),inference time(ms)
+MAPSED, 102.228,1562.442,342
+NN-CCRF,163.612,1087.240,304
+DuroNet,136.028,1735.459,495
+ConvGRU,119.652,2140.794,389
+CSAN,291.262,1949.958,1110
+

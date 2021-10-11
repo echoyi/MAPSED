@@ -1,0 +1,13 @@
+metric,data source,aggregation,type 1,type 2,type 3,type 4
+train,RMSE,mean,3.302,2.9492,2.0982,2.0241
+train,RMSE,variance,0.4368,0.3061,0.1359,0.051
+train,MAE,mean,2.0175,1.7084,1.2911,1.2289
+train,MAE,variance,0.1143,0.0339,0.0282,0.0116
+valid,RMSE,mean,3.4256,3.2153,2.2322,2.0824
+valid,RMSE,variance,0.2145,1.5426,0.159,0.0594
+valid,MAE,mean,2.0784,1.7728,1.362,1.2437
+valid,MAE,variance,0.0568,0.1233,0.0403,0.0081
+test,RMSE,mean,3.3347,3.3769,2.2008,2.0102
+test,RMSE,variance,0.4282,1.5528,0.1284,0.0549
+test,MAE,mean,2.0199,1.8086,1.3256,1.22
+test,MAE,variance,0.0923,0.1194,0.0272,0.0114
